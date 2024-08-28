@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "fullname": "Nguyen Van A",
+      "birthDay": "1990-01-01",
+      "address": "123 ABC Street",
+      "phoneNumber": "0123456789"
+    },
+    {
+      "id": 2,
+      "fullname": "Le Thi B",
+      "birthDay": "1992-02-02",
+      "address": "456 DEF Street",
+      "phoneNumber": "0987654321"
+    }
+  ]
+  
